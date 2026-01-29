@@ -80,7 +80,7 @@ mkdir -p ~/.clawdbot/config
 #### Configure API Key: Go to Notion Developers → "View my integrations" to create a key.
 #### Create new workspace in notion for more privacy.
 #### Give access to page and database to the integration using share button on top right corner when opening the page or database.
-### In the integration make sure the page and database which want to use by clawsbot must given access too under the - Access - Page and database access.
+#### In the integration make sure the page and database which want to use by clawsbot must given access too under the - Access - Page and database access.
 #### Now copy the key and its ready to paste.
 
 #### Opnen the directory:
