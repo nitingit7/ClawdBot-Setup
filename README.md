@@ -89,6 +89,9 @@ Paste the following:
 NOTION_API_KEY=secret_xxxxxxxxxxxxxxxxxxxxx
 ```
 
+#### Then press `CTR + O` and `Enter`.
+#### For exit, press `CTR+X`.
+
 #### Verify:
 
 ```bash
