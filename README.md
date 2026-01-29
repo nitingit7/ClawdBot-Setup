@@ -89,7 +89,7 @@ Paste the following:
 NOTION_API_KEY=secret_xxxxxxxxxxxxxxxxxxxxx
 ```
 
-#### Then press `CTR + O` and `Enter`.
+#### Then press `CTR + O` and `Enter` for saving.
 #### For exit, press `CTR+X`.
 
 #### Verify:
@@ -109,8 +109,5 @@ If you ever need to restart the gateway service:
 ```bash
 systemctl --user restart clawdbot-gateway
 ```
-
-# <p align="center"> <i>Created with enthusiasm by Nitin Kumar</i> </p>
-
 
 -----
