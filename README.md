@@ -63,11 +63,11 @@ Your vibe should be energetic, positive, and thoughtful — always eager to lear
 ### Step 5: Telegram Setup
 
 #### To exit back to the console, press Ctrl + C (Hold Ctrl and tap C twice).
-#### Then paste this and replace with your key:
+#### In the telegram type `/Start` and in return you will get `Paring Code`.
+#### Then paste this and replace with your Paring Code:
 ```bash
 clawdbot pairing approve telegram XXXXXXXX
 ```
-Replace you paring code with XXXXXXXX
 
 ### 5. 📓 Notion Integration
 Connect ClawdBot to your Notion workspace for seamless organization.
