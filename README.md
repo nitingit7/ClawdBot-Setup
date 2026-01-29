@@ -14,7 +14,7 @@ sudo apt update
 ```
 # Optional: If you have sufficient RAM
 ```bash
-sudo apt upgrade -y
+sudo apt upgrade
 ```
 ### 2. Install Node.js (via NVM)
 We use NVM to manage Node.js versions. Run these commands in order:
@@ -48,7 +48,7 @@ curl -fsSL [https://molt.bot/install.sh](https://molt.bot/install.sh) | bash
 ### 4. 🧠 Personality & AI Configuration
 
 Define the Vibe
-Start your first conversation with Hello and paste the following prompt to set the personality:
+#### Start your first conversation with `Hello` and paste the following prompt to set the personality:
 
 ```bash
 My name is [Your Name]. I’d like to call you “Nova”.
@@ -62,7 +62,7 @@ Your vibe should be energetic, positive, and thoughtful — always eager to lear
 
 ### Step 5: Telegram Setup
 
-To exit back to the console, press Ctrl + C (Hold Ctrl and tap C twice).
+#### To exit back to the console, press Ctrl + C (Hold Ctrl and tap C twice).
 #### Then paste this and replace with your key:
 ```bash
 clawdbot pairing approve telegram XXXXXXXX
