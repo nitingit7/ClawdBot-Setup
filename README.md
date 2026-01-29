@@ -12,24 +12,24 @@ Launch an **EC2** or any cloud instance running **Ubuntu**. Once connected, prep
 ```bash
 sudo apt update
 ```
-# Optional: If you have sufficient RAM
+#### Optional: If you have sufficient RAM
 ```bash
 sudo apt upgrade
 ```
 ### 2. Install Node.js (via NVM)
 We use NVM to manage Node.js versions. Run these commands in order:
 
-# Install NVM
+#### Install NVM
 ```bash
 curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh) | bash
 ```
 
-# Refresh profile
+#### Refresh profile
 ```bash
 source ~/.bashrc
 ```
 
-# Install LTS version of Node
+#### Install LTS version of Node
 ```bash
 nvm install --lts
 ```
